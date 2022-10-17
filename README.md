@@ -2,7 +2,7 @@
 
 This project is a clone Minecraft in React.
 
-Demo: https://minecraftjs.ml/
+Demo: https://cubecrafter.ml/
 
 ## How to play?
 
